@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/GreenCheck/static/css/main.0555ce03.css",
-    "main.js": "/GreenCheck/static/js/main.a9e13dd5.js",
+    "main.js": "/GreenCheck/static/js/main.bcf27145.js",
     "static/js/453.493ca200.chunk.js": "/GreenCheck/static/js/453.493ca200.chunk.js",
     "index.html": "/GreenCheck/index.html",
     "main.0555ce03.css.map": "/GreenCheck/static/css/main.0555ce03.css.map",
-    "main.a9e13dd5.js.map": "/GreenCheck/static/js/main.a9e13dd5.js.map",
+    "main.bcf27145.js.map": "/GreenCheck/static/js/main.bcf27145.js.map",
     "453.493ca200.chunk.js.map": "/GreenCheck/static/js/453.493ca200.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0555ce03.css",
-    "static/js/main.a9e13dd5.js"
+    "static/js/main.bcf27145.js"
   ]
 }
