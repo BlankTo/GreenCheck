@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/GreenCheck/static/css/main.e4a189bd.css",
-    "main.js": "/GreenCheck/static/js/main.8f0d8ccb.js",
-    "static/js/453.493ca200.chunk.js": "/GreenCheck/static/js/453.493ca200.chunk.js",
+    "main.css": "/GreenCheck/static/css/main.e7f4b468.css",
+    "main.js": "/GreenCheck/static/js/main.f8e21e32.js",
+    "static/js/453.f9b388fa.chunk.js": "/GreenCheck/static/js/453.f9b388fa.chunk.js",
     "index.html": "/GreenCheck/index.html",
-    "main.e4a189bd.css.map": "/GreenCheck/static/css/main.e4a189bd.css.map",
-    "main.8f0d8ccb.js.map": "/GreenCheck/static/js/main.8f0d8ccb.js.map",
-    "453.493ca200.chunk.js.map": "/GreenCheck/static/js/453.493ca200.chunk.js.map"
+    "main.e7f4b468.css.map": "/GreenCheck/static/css/main.e7f4b468.css.map",
+    "main.f8e21e32.js.map": "/GreenCheck/static/js/main.f8e21e32.js.map",
+    "453.f9b388fa.chunk.js.map": "/GreenCheck/static/js/453.f9b388fa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4a189bd.css",
-    "static/js/main.8f0d8ccb.js"
+    "static/css/main.e7f4b468.css",
+    "static/js/main.f8e21e32.js"
   ]
 }
